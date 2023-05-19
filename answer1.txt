@@ -1,0 +1,4 @@
+JavaScript is a scripting lanuage used for programing web pages as well as server systems.
+It is an object-oriented,interpreted,lightweight and powerful programing language made up of first-class 
+functions.
+JavaScript can update the content dynamically for webpages
